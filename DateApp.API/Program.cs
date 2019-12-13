@@ -13,7 +13,7 @@ namespace DateApp.API
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Start server...");
+            Console.WriteLine("Start server....");
             CreateHostBuilder(args).Build().Run();
         }
 
